@@ -13,7 +13,7 @@
   ],
   "homepage": "/",
   "bugs": {
-    "url": "https://github.com/eolme/quraga/issues",
+    "url": "https://github.com/arcmelkonyan/iqe/iqeissues",
     "email": "im@petrov.engineer"
   },
   "license": "AGPL-3.0",
@@ -25,7 +25,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eolme/quraga.git"
+    "url": "https://github.com/arcmelkonyan/iqe/.git"
   },
   "scripts": {
     "build": "react-app-rewired build",
