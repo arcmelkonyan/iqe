@@ -53,7 +53,7 @@
     "@vkontakte/vk-miniapps-deploy": "^0.0.17",
     "@vkontakte/vk-qr": "^2.0.10",
     "@vkontakte/vkui": "3.9.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-retry": "^3.1.8",
     "js-event-bus": "^1.0.3",
     "prop-types": "^15.7.2",
